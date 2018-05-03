@@ -6,7 +6,7 @@ Assignment was to create an object with 5 moving parts. Other requirements inclu
 * Must include a dynamic shadow
 
 ## About
-Packages used to create this project are not included in this repository (sig/sigapp which are products of Marcello Kallmann). 
+Packages used to create this project are not included in this repository (sig/sigapp which are products of Marcello Kallmann). This repository is for Project1 for Computer Graphics (CSE170) UC Merced Spring 2018.
 
 ## Known Issues
 - [ ] Camera modes are not fully implemented
